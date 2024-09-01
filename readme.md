@@ -20,7 +20,7 @@ This project sets up a continuous integration and deployment (CI/CD) pipeline us
 
 2. **Jenkins**
    - CI/CD Automation: Jenkins orchestrates the build, test, and deployment pipelines.
-   - URL: *(Provide Jenkins URL here)*
+   - URL: https://github.com/biroue10/Jenkins-Sonarqube-Docker.git
    - Configuration: Jenkins is configured to pull code from the GitHub repository, run tests, and build Docker images.
 
 3. **SonarQube**
